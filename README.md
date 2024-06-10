@@ -1,1 +1,1 @@
-# PRODIGY_WD_01
+This repo contains code for a responsive landing page.
